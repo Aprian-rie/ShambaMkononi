@@ -42,8 +42,14 @@
         6. Marketplace functionality
         7. Smart planning suggestions
         8. Farmer’s Forum
-        9. Farming Schedule
+        9. Farming Scheduler
         10. Testing
         11. Deployment
         12. User training and support
         13. Maintenance and Updates
+
+   
+
+
+   
+![ssss](https://github.com/Apryan27/ShambaMkononi/assets/104067228/ebb31c44-e669-4dfc-92af-b6988cade366)
